@@ -3,3 +3,5 @@
 http://iptvsp.xyz/live/fox_life/index.m3u8
 #EXTINF:-1, Axn
 http://iptvsp.xyz/live/axn/index.m3u8
+#EXTINF:-1, divinity
+http://iptvsp.xyz/live/divinity/index.m3u8
